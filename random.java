@@ -6,7 +6,7 @@ import java.util.Random;
 
 // Class representing an address book entry generator
 public class random {
-    private static final int NUM_ENTRIES = 100000;
+    private static final int NUM_ENTRIES = 1000000;
 
     // Generate random phone number
     private static String generatePhoneNumber(Random random) {
